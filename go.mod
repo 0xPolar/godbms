@@ -1,4 +1,4 @@
-module github.com/drew-0x/godb
+module github.com/0xPolar/godb
 
 go 1.22.0
 
