@@ -7,7 +7,6 @@ import (
 	"syscall"
 )
 
-// test
 func updateFile(db *KV) error {
 	// write new nodes
 	if err := writePages(db); err != nil {
